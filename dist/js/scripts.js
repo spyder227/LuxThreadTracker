@@ -1,4 +1,4 @@
-const sheet = `https://opensheet.elk.sh/1W-viJsIy-fREuWNC59LJz8mZYisyWzwy-k1ggTHCQ6w/edit?usp=sharing`;
+const sheet = `https://opensheet.elk.sh/1W-viJsIy-fREuWNC59LJz8mZYisyWzwy-k1ggTHCQ6w`;
 let threads = [];
 var filters = {};
 const typeSearch = `#quicksearch`;
