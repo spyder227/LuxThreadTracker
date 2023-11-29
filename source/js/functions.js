@@ -113,7 +113,7 @@ function formatThread(site, siteURL, status, character, feature, title, threadID
 function sendAjax(data, thread, form = null, complete = null) {
     console.log('send ajax');
     $.ajax({
-        url: `https://script.google.com/macros/s/AKfycbw78kjjrvWSE-IciWnV67aRvZR9r9pInd-JnLtQaCZaPOVrAHcU6gjaz8HN-QLwuMeh/exec`,   
+        url: `https://script.google.com/macros/s/AKfycbzI1Kc0lPDcMuaZhnXiF79v5PWotC6DJzBuqwEhNjwPUwaxQW6ACPzf_jxQD3fjRCiP/exec`,   
         data: data,
         method: "POST",
         type: "POST",
